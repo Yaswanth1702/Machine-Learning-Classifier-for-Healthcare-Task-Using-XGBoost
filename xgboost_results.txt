@@ -1,0 +1,9 @@
+Best Hyperparameters: {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.8}
+Accuracy: 0.9474
+Precision: 0.9459
+Sensitivity (Recall): 0.9722
+Specificity: 0.9048
+F1-Score: 0.9589
+Confusion Matrix:
+[[38  4]
+ [ 2 70]]
